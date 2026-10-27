@@ -1,0 +1,8 @@
+{
+  "name": "Remix WealthNavi - ผู้ช่วยการเงินและวางแผนภาษี",
+  "description": "แอพการเงินบนมือถือแนวตั้งสำหรับบันทึกกระแสเงินสด คำนวณภาษีบุคคลธรรมดา วางแผนลงทุนทบต้น พร้อม AI ที่ปรึกษาและรองรับการใช้งานแบบออฟไลน์",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
